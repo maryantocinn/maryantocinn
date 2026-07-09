@@ -56,10 +56,10 @@
 
 <p align="center">
   <a href="https://github.com/spring-projects/spring-data-elasticsearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spring-projects&repo=spring-data-elasticsearch&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=spring-projects&repo=spring-data-elasticsearch&theme=github_dark&hide_border=true"/>
   </a>
   <a href="https://github.com/o19s/elasticsearch-learning-to-rank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=o19s&repo=elasticsearch-learning-to-rank&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=o19s&repo=elasticsearch-learning-to-rank&theme=github_dark&hide_border=true"/>
   </a>
 </p>
 
@@ -73,5 +73,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryantocinn&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maryantocinn&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
