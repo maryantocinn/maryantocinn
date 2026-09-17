@@ -61,12 +61,16 @@
   <a href="https://github.com/o19s/elasticsearch-learning-to-rank">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=o19s&repo=elasticsearch-learning-to-rank&theme=github_dark&hide_border=true"/>
   </a>
+  <a href="https://github.com/spring-projects/spring-data-mongodb">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=spring-projects&repo=spring-data-mongodb&theme=github_dark&hide_border=true"/>
+  </a>
 </p>
 
 **Notable Pull Requests:**
 * **[spring-data-elasticsearch #3249](https://github.com/spring-projects/spring-data-elasticsearch/pull/3249):** Added Micrometer Observation support for both imperative and reactive Elasticsearch operations to close a major observability gap in the framework.
 * **[spring-data-elasticsearch #2985](https://github.com/spring-projects/spring-data-elasticsearch/pull/2985):** Implemented native `count` methods for the `ReactiveElasticsearchClient` using `CountRequest`, optimizing query execution without needing to initialize full entities.
 * **[elasticsearch-learning-to-rank #520](https://github.com/o19s/elasticsearch-learning-to-rank/pull/520):** Bumped versions and updated the build configuration to ensure the plugin is fully compatible with Elasticsearch v8.18.6.
+* **[spring-data-mongodb #5227](https://github.com/spring-projects/spring-data-mongodb/pull/5227):** Fixed AOT compilation failures in generated repositories by utilizing `DefaultConversionService` to correctly adapt `List` query results to declared `Set` return types for both entities and projections.
 
 ---
 
